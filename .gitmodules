@@ -1,0 +1,3 @@
+[submodule "stack-documentacao"]
+	path = stack-documentacao
+	url = https://github.com/geraldojuniorzup/stack-documentacao.git
